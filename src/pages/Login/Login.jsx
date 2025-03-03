@@ -63,4 +63,4 @@ const user_auth = async (event)=>{
   )
 }
 
-export default Login
+export default Login;
