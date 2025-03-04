@@ -5,7 +5,7 @@ import bb4 from './bb4.jpg';
 import bb5 from './bb5.jpg';
 import bb6 from './bb6.jpg';
 import bb7 from './bb7.jpg';
-// import bb8 from './bb8.jpg';
+import bb8 from './bb8.jpg';
 // import bb9 from './bb9.jpg';
 // import bb10 from './bb10.jpg';
 // import bb11 from './bb11.jpg';
