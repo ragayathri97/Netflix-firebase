@@ -29,5 +29,4 @@ const upcomingMovies = [
   { image: up13, name: 'Drive-Away Dolls' },
   { image: up14, name: 'Mickey 17' },
 ];
-
 export default upcomingMovies;

@@ -29,6 +29,4 @@ const topPicks = [
   { image: tp13, name: 'Se7en' },
   { image: tp14, name: 'Interstellar' },
 ];
-
-
 export default topPicks;
