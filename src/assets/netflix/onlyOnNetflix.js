@@ -29,4 +29,5 @@ const onlyOnNetflix = [
   { image: nf13, name: 'Murder Mystery' },
   { image: nf14, name: 'Outside the Wire' },
 ];
+
 export default onlyOnNetflix;
