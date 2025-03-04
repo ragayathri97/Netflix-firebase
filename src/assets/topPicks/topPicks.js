@@ -30,4 +30,5 @@ const topPicks = [
 //   { image: tp14, name: 'Interstellar' },
 ];
 
+
 export default topPicks;
